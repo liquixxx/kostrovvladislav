@@ -1,4 +1,5 @@
-/*ISTO4NIK: https://ru.stackoverflow.com/questions/731067/Реализация-двоичной-кучи
+// ISTO4NIK: https://ru.stackoverflow.com/questions/731067/Реализация-двоичной-кучи
+
 public class BinaryHeap {
 
     private int[] elements;  // массив для хранения элементов кучи
